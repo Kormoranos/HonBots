@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bot
+	name="Batman"
+	description="..."
+	heroname="Hero_BabaYaga"
+	rootlua="hag_main.lua"
+	defaultplayername="HagBot"
+	precachepath="/heroes/babayaga/"
+/>

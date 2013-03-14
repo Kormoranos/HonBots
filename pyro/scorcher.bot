@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bot
+	name="scorcher"
+	description="The bot that caused all future problems"
+	heroname="Hero_Pyromancer"
+	rootlua="scorcher_main.lua"
+	defaultplayername="scorcher"
+	precachepath="/heroes/pyromancer"
+/>
